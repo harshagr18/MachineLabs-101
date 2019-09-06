@@ -8,6 +8,6 @@ Contributions encouraged!
 3. Pandas (dataframes)
 4. Matplotlib (graphs)
 
-### 1. Linear Regression
-1. Creating a random x-y dataset and training a line to learn the dataset.
-
+### Overview
+1. Linear Regression
+2. Support Vector Machines (SVM)
